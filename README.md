@@ -1,5 +1,3 @@
-# this repo is now maintenance only; please develop a fork || use the mrq repo if you have large features to submit
-
 ### recent updates
 
 - BigVGAN-base is now used in place of Univnet by default. (thank you to @deviandice for the example implementation)
